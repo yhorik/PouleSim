@@ -1,0 +1,13 @@
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\bin\Release\netcoreapp2.2\PouleSim.deps.json
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\bin\Release\netcoreapp2.2\PouleSim.runtimeconfig.json
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\bin\Release\netcoreapp2.2\PouleSim.runtimeconfig.dev.json
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\bin\Release\netcoreapp2.2\PouleSim.dll
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\bin\Release\netcoreapp2.2\PouleSim.pdb
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.csproj.CoreCompileInputs.cache
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.RazorAssemblyInfo.cache
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.RazorAssemblyInfo.cs
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.AssemblyInfoInputs.cache
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.AssemblyInfo.cs
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.RazorTargetAssemblyInfo.cache
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.dll
+C:\Users\Yhorik\Documents\Dev\PouleSim\PouleSim\obj\Release\netcoreapp2.2\PouleSim.pdb

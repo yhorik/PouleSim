@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Quick Soccer Sim</title>
+    <style>
+        input[type='submit'], button, [aria-label] {
+            cursor: pointer;
+        }
+
+        #spoiler {
+            display: none;
+        }
+
+        table {
+            font-family: Arial, sans-serif;
+            border: 1px solid;
+            border-collapse: collapse;
+        }
+
+        th {
+            background-color: #0066CC;
+            color: white;
+        }
+
+        td {
+            border: 1px solid;
+            padding: 5px;
+        }
+		
+		#position1{
+			background-color: #008800;
+		}
+		#position2{
+			background-color: #888800;
+		}
+		#position3,#position4{
+			background-color: #880000;
+		}
+    </style>
+</head>
+<body>
+    <h1>Teams</h1>
+	<form action="javascript:void(0);" method="POST" onsubmit="generateTeams()">
+    <input type="submit" value="Generate">
+    </form>
+        
+    <table>
+        <tbody id="teams"></tbody>
+    </table>
+	<form action="javascript:void(0);" method="POST" onsubmit="runPoule()">
+    <input type="submit" value="Simulate">
+    <table>
+        <tbody id="matches"></tbody>
+    </table>
+    <table>
+        <tbody id="results"></tbody>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <script src="site.js"></script>
+</body>
+</html>
